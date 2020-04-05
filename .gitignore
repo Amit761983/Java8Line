@@ -4,14 +4,14 @@
 .settings/
 
 # Intellij
-.idea/
+.idea
 *.iml
 *.iws
 *.xml
 
 # Mac
 .DS_Store
-
+ Java8Line.iml
 # Maven
 log/
 target/
