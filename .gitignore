@@ -11,8 +11,7 @@
 
 # Mac
 .DS_Store
-Java8Line.iml
-.gitignore
+ Java8Line.iml
 # Maven
 log/
 target/
