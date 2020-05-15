@@ -1,6 +1,5 @@
 package org.threadDemo;
 
-import java.util.Date;
 
 public class DaemonThreadDemo extends Thread {
 
