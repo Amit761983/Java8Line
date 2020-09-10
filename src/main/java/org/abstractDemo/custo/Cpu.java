@@ -9,7 +9,6 @@ public abstract class Cpu {
         this.ram = ram;
         this.hdd = hdd;
     }
-
     public abstract void deal();
 
     public void changeRam(int newRam)

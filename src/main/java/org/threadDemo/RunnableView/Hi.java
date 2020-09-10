@@ -10,7 +10,9 @@ public class Hi implements Runnable{
             {
                 try{
                     Thread.sleep(1000);
-                }catch(Exception e){}
+                }
+                catch(Exception e)
+                {}
             }
         }
     }

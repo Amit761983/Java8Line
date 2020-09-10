@@ -27,6 +27,7 @@ public class pc extends Cpu {
             Cpu pc = new pc(8,1,"i7");
 
             cpu.deal();
+            System.out.println(cpu.toString());
             pc.deal();
             pc.changeRam(18);
             System.out.println(pc.toString());
